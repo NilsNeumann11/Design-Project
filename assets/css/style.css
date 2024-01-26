@@ -1,0 +1,24 @@
+/*  @font-face for custoom fonts */
+@font-face {
+	font-family: Roboto;
+	src: url(../fonts/Roboto/Roboto-Regular.ttf);
+}
+
+/* UNIVERSAL SELECTOR */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* TYPE SELECTORS */
+html {
+	font-size: 62.5%;
+}
+
+/* CLASS-CONTAINER */
+
+/* CLASSES */
+
+/* Designs */
+/* Farben: #0b0c17 / #ff3571 / #dddddd / #3C30FF / #FFF / #000 */
