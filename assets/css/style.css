@@ -16,6 +16,10 @@ html {
 	font-size: 62.5%;
 }
 
+body {
+	color: #0b0c17;
+}
+
 h1 {
 	font-family: Roboto;
 	font-size: 1.2rem;
